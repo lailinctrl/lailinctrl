@@ -15,6 +15,9 @@
   <a href="https://instagram.com/lail_007">
     <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://saweria.co/DooM">
+    <img src="https://custom-icon-badges.demolab.com/badge/Saweria-FFB800?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Saweria" />
+  </a>
 </div>
 
 <div align="center">
